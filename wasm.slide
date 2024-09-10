@@ -5,6 +5,8 @@ Summary:
 
 Rajiv Ranjan Singh
 
+: Hey hi everyone, I am excited to be here with you to talk about Go, WebAssembly, and how we can profile WebAssembly applications using pprof and wzprof.
+
 ## Agenda
 
 - **What is Go?**
@@ -17,7 +19,6 @@ Rajiv Ranjan Singh
 - **Visualize the cpu profile**
 - **Future of profiling WebAssembly with wzprof**
 
-: Hey hi everyone, I am excited to be here with you to talk about Go, WebAssembly, and how we can profile WebAssembly applications using pprof and wzprof.
 : so this is the agend for today so we will cover ....
 : We use Go every day, but we know that maybe not everyone does, so we'll start with a quick presentation on what Go is.
 : Then we'll jump into whats is WebAssembly and how it's used in Go applications.
